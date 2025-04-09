@@ -1,6 +1,14 @@
 #!/usr/bin/env node
 
 /**
+ * Instructions:
+ * To run this server:
+ * 1. Make sure you have Node.js installed
+ * 2. Run 'npm install' to install dependencies
+ * 3. Start the server with 'node www' or 'npm start'
+ */
+
+/**
  * Module dependencies.
  */
 
